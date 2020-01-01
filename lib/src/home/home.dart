@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:w_store_flutter/src/app.dart';
 
 class Home extends StatefulWidget {
   @override
